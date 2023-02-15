@@ -1,4 +1,7 @@
-# text-readability 
+# readability 
+
+This is a fork of https://github.com/clearnote01/readability#readme with vulnerability patches
+
 npm package to calculate statistics from text to determine readability, complexity and grade level of a particular corpus.
 
 A rewrite of [textstat](https://github.com/shivam5992/textstat) library in JS

@@ -1,6 +1,6 @@
 {
-  "name": "text-readability",
-  "version": "1.0.5",
+  "name": "readability",
+  "version": "1.0.0",
   "description": "",
   "main": "main.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "pluralize": "^8.0.0",
-    "syllable": "^3.4.0"
+    "syllable": "^5.0.1"
   },
   "homepage": "https://github.com/clearnote01/readability#readme",
   "keywords": [
